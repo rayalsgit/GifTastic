@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+body {
+    
+}
+
+.main_divs {    
+    
+   
+}
+
+.animBtn {
+    background-color: teal;
+    color: white;    
+    margin-right: 10px;
+}
+
+.gdiv {
+    float: left;
+    margin: 10px;
+}
+
+#frm {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
